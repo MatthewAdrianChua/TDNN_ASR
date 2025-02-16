@@ -4,7 +4,7 @@ import json
 import csv
 import numpy as np
 
-DATAET_PATH = "dataset"
+DATAET_PATH = "D:\\Schoolshit\\Thesis\\TDNN\\dataset"
 JSON_PATH = "data.json"
 SAMPLES_TO_CONSIDER = 22050  # 1 second at 22050 Hz
 TARGET_LENGTH = 2 * SAMPLES_TO_CONSIDER  # 2 seconds
